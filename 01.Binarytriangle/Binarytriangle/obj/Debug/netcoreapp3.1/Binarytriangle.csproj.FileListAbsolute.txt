@@ -1,0 +1,13 @@
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.exe
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.deps.json
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.runtimeconfig.json
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.runtimeconfig.dev.json
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.dll
+C:\msc\msc .net\Binarytriangle\Binarytriangle\bin\Debug\netcoreapp3.1\Binarytriangle.pdb
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.AssemblyInfoInputs.cache
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.AssemblyInfo.cs
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.dll
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.pdb
+C:\msc\msc .net\Binarytriangle\Binarytriangle\obj\Debug\netcoreapp3.1\Binarytriangle.genruntimeconfig.cache
