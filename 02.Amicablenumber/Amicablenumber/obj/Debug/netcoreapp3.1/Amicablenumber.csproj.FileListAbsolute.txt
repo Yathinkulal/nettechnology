@@ -1,0 +1,14 @@
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.exe
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.deps.json
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.runtimeconfig.json
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.runtimeconfig.dev.json
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.dll
+C:\msc\msc .net\Amicablenumber\Amicablenumber\bin\Debug\netcoreapp3.1\Amicablenumber.pdb
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.csproj.AssemblyReference.cache
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.AssemblyInfoInputs.cache
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.AssemblyInfo.cs
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.dll
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.pdb
+C:\msc\msc .net\Amicablenumber\Amicablenumber\obj\Debug\netcoreapp3.1\Amicablenumber.genruntimeconfig.cache
