@@ -1,0 +1,14 @@
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\msc\msc .net\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.AssemblyReference.cache
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\msc\msc .net\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
