@@ -1,0 +1,14 @@
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.csproj.AssemblyReference.cache
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.AssemblyInfoInputs.cache
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.AssemblyInfo.cs
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.exe
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.deps.json
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.runtimeconfig.json
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.runtimeconfig.dev.json
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.dll
+C:\msc\msc .net\Frequency\Frequency\bin\Debug\netcoreapp3.1\Frequency.pdb
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.dll
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.pdb
+C:\msc\msc .net\Frequency\Frequency\obj\Debug\netcoreapp3.1\Frequency.genruntimeconfig.cache
