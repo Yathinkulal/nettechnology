@@ -1,0 +1,14 @@
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.exe
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.deps.json
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.runtimeconfig.json
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.runtimeconfig.dev.json
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.dll
+C:\msc\msc .net\FileComparision\FileComparision\bin\Debug\netcoreapp3.1\FileComparision.pdb
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.csproj.AssemblyReference.cache
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.AssemblyInfoInputs.cache
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.AssemblyInfo.cs
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.dll
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.pdb
+C:\msc\msc .net\FileComparision\FileComparision\obj\Debug\netcoreapp3.1\FileComparision.genruntimeconfig.cache
