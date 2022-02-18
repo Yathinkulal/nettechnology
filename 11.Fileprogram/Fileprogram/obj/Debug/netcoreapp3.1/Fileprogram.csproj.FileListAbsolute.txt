@@ -1,0 +1,14 @@
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.exe
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.deps.json
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.runtimeconfig.json
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.runtimeconfig.dev.json
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.dll
+C:\msc\msc .net\Fileprogram\Fileprogram\bin\Debug\netcoreapp3.1\Fileprogram.pdb
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.csproj.AssemblyReference.cache
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.AssemblyInfoInputs.cache
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.AssemblyInfo.cs
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.dll
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.pdb
+C:\msc\msc .net\Fileprogram\Fileprogram\obj\Debug\netcoreapp3.1\Fileprogram.genruntimeconfig.cache
