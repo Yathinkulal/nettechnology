@@ -1,0 +1,14 @@
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.csproj.AssemblyReference.cache
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.AssemblyInfoInputs.cache
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.AssemblyInfo.cs
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.exe
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.deps.json
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.runtimeconfig.json
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.runtimeconfig.dev.json
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.dll
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\bin\Debug\netcoreapp3.1\IComaparableinterface.pdb
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.dll
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.pdb
+C:\msc\msc .net\IComaparableinterface\IComaparableinterface\obj\Debug\netcoreapp3.1\IComaparableinterface.genruntimeconfig.cache
