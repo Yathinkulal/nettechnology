@@ -1,0 +1,14 @@
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.csproj.AssemblyReference.cache
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.AssemblyInfoInputs.cache
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.AssemblyInfo.cs
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.exe
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.deps.json
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.runtimeconfig.json
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.runtimeconfig.dev.json
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.dll
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\bin\Debug\netcoreapp3.1\Fibonaccinumber.pdb
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.dll
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.pdb
+C:\msc\msc .net\Fibonaccinumber\Fibonaccinumber\obj\Debug\netcoreapp3.1\Fibonaccinumber.genruntimeconfig.cache
