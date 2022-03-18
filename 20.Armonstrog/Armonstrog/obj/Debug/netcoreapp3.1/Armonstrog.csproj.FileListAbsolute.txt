@@ -1,0 +1,14 @@
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.exe
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.deps.json
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.runtimeconfig.json
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.runtimeconfig.dev.json
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.dll
+C:\msc\msc .net\Armonstrog\Armonstrog\bin\Debug\netcoreapp3.1\Armonstrog.pdb
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.csproj.AssemblyReference.cache
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.AssemblyInfoInputs.cache
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.AssemblyInfo.cs
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.dll
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.pdb
+C:\msc\msc .net\Armonstrog\Armonstrog\obj\Debug\netcoreapp3.1\Armonstrog.genruntimeconfig.cache
