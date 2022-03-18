@@ -1,0 +1,13 @@
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.exe
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.deps.json
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.runtimeconfig.json
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.runtimeconfig.dev.json
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.dll
+C:\msc\msc .net\SumofDigit\SumofDigit\bin\Debug\netcoreapp3.1\SumofDigit.pdb
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.AssemblyInfoInputs.cache
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.AssemblyInfo.cs
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.dll
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.pdb
+C:\msc\msc .net\SumofDigit\SumofDigit\obj\Debug\netcoreapp3.1\SumofDigit.genruntimeconfig.cache
