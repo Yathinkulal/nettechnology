@@ -1,0 +1,13 @@
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.exe
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.deps.json
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.json
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.dev.json
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\msc\msc .net\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfoInputs.cache
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfo.cs
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\msc\msc .net\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.genruntimeconfig.cache
