@@ -1,0 +1,14 @@
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\msc\msc .net\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\msc\msc .net\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
